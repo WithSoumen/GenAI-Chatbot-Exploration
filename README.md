@@ -2,8 +2,7 @@
 
 A full-stack, responsive conversational AI system that bridges modern frontend interfaces with state-of-the-art machine learning Large Language Models (LLMs). Built to demonstrate end-to-end AI integration, custom prompt engineering, dynamic multi-turn session management, and fluid UI design.
 
-🔗 **[Live Demo](https://soumenkarmakar.github.io/genai-chatbot-exploration)** *(Replace with your actual GitHub Pages deployment link)*
-
+🔗 **[Live Demo](https://withsoumen.github.io/GenAI-Chatbot-Exploration/)**
 ---
 
 ## 🎨 Overview & Features
